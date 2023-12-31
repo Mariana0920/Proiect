@@ -1,0 +1,3 @@
+Proiectul pe care îl dezvolt este o aplicație de gestionare a cupoanelor de reduceri. În cadrul acestei aplicații, am ales să folosesc Node.js cu framework-ul Express pentru a construi partea de backend. Astfel, pot gestiona rutele, cererile și răspunsurile HTTP într-un mod eficient. De asemenea, utilizez o bază de date MySQL pentru a stoca și organiza informațiile legate de cupoane.
+
+Pentru partea de frontend, am optat pentru React, un framework JavaScript modern, pentru a crea o interfață de utilizator SPA (Single Page Application). Am deja o componentă numită CupoaneList care se ocupă de afișarea listei de cupoane. Încerc să integrez aplicația cu API-ul Foursquare pentru a obține informații relevante despre locații și cupoane.
